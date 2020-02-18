@@ -62,3 +62,6 @@ Here is a TODO list mostly regarding cross browser styling and functionality iss
 
 ### More info
 The original PWA/Node app was developed on this monolithic repo [here](https://github.com/jdc-cunningham/codeforkc--tagging-tracker/)
+
+### Live PWA
+[Here's a link](https://byx1a2gixtvvnjwxde5y.com/) to the live PWA current build, note the gear icon, if you click on that/hit "Software Update" that is intended to purge the PWA cache and will pull from the remote endpoint to update the code of the PWA installed on the device.
