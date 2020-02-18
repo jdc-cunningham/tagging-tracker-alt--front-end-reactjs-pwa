@@ -1,5 +1,5 @@
 ### About
-This is an alternative take on the front end for the Tagging Tracker project. This app is built with ReactJS and utilizes the built in PWA feature.
+This is an alternative take on the front end for the Tagging Tracker project. This app is built with ReactJS and utilizes the built in PWA feature. There is a matching [back end](https://github.com/codeforkansascity/tagging-tracker-pwa-backend) for it written in Node.
 
 ### Technical Overview
 The main features of this app are:
